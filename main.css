@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200&display=swap');
+body {
+    margin:3%;
+}
+.homebackground {
+    background-image: url("images/city3rd.png");
+    background-size:cover;
+    background-attachment: fixed;
+}
+.aboutmebackground {
+    background-image: url("images/city\ third.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.contactmebackground {
+    background-image: url("images/city\ away.png");
+    background-size: contain;
+    background-attachment: fixed;
+}
+.assignment {
+    background-image: url("images/home.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.game {
+    background-image: url("images/citypurp.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar {
+    font-size: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.navbar1 {
+    color: goldenrod;
+    font-size: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: rgba(78, 77, 77, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.navbar2 {
+    font-size: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: rgb(255, 255, 255, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.navbar3 {
+    color: white;
+    font-size: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.head1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight:bolder;
+    text-decoration: underline;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.head2 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.text {
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.asstext {
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.gametext {
+    color: goldenrod;
+    background-color: rgb(64, 0, 128);
+    font-size: 25px;
+    font-weight: 400;
+    font-family:'Montserrat Alternates', sans-serif;
+}
+.gametext2 {
+    color: rgb(163, 118, 4);
+    background-color: rgb(207, 211, 211, 0.8);
+    font-size: 25px;
+    font-weight: 400;
+    font-family:'Montserrat Alternates', sans-serif;
+}
+.contact {
+    font-size: 50px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:blue;
+    background-color: rgb(255, 255, 255, 0.7);
+    text-align: center;
+    box-sizing: border-box;
+    padding: 1px;
+    margin: 30px;
+}
+.about {
+    color: goldenrod;
+    font-size: 20px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: rgb(10, 10, 10, 0.7);
+}
+.box{
+    box-sizing: border-box;
+    margin-right: 85%;
+}
+.box2{
+    box-sizing: border-box;
+    margin-right: 35%;
+}
+.box3{
+    box-sizing: border-box;
+    margin-right: 25%
+}
+.box4{
+    box-sizing: border-box;
+    margin-right: 28%
+}
+a:visited{
+    color:inherit;
+}
+a:hover{
+    background-color: blueviolet;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.me {
+    height: 300px;
+    width: 300px;
+}
+.logo {
+    height: 350px;
+    width: 350px;
+}
+.etihad {
+    height: 400px;
+    width: 400px;
+}
+.contactlogo {
+    height: 400px;
+    width: 400px;
+}
+.clogos {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-left: 17cm;
+    justify-content: space-between;
+}
+.fmlogo {
+    height: 50px;
+    width: 150px
+}
+.logos {
+    display: flex;
+    flex-direction: row;
+    justify-content:right;
+    margin: 0.85%;
+}
+.logos2 {
+    display: flex;
+    flex-direction: row;
+    justify-content:right;
+    margin: 8.7%
+}
